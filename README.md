@@ -3,7 +3,7 @@
 Commands to run the backend
 >>npm i    //this will install all the node modules required for running the server
 
->>node src/index.js !! npm run dev 
+>>node src/index.js || npm run dev 
 
 PORT - 3000
 
